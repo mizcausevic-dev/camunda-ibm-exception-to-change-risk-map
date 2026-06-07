@@ -1,0 +1,10 @@
+{
+  "name": "camunda-ibm-exception-to-change-risk-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exception-to-change risk map for Camunda incidents and IBM change-window exposure.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
